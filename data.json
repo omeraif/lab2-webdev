@@ -1,0 +1,20 @@
+{
+  "average_study_hours_by_major": {
+    "Computer Science": 5,
+    "Industrial Engineering": 4,
+    "Mechanical Engineering": 6,
+    "Business": 3
+  },
+  "popular_study_places": {
+    "Library": 12,
+    "Dorm": 7,
+    "Cafe": 5,
+    "Student Center": 4
+  },
+  "study_methods": {
+    "Practice Problems": 10,
+    "Reading Notes": 6,
+    "Group Study": 4,
+    "Flashcards": 3
+  }
+}
